@@ -55,6 +55,14 @@ Comparing the proportions of two general populations (groups 246 and 247) was do
 
 Similarly, testing the control groups in the A/B experiment was performed. Null Hypothesis: The proportions of unique visitors who reached each stage of the funnel are the same. Alternative Hypothesis: There is a significant difference between the proportions of unique visitors who reached each stage of the funnel. The samples were divided into groups. When testing statistical hypotheses, a significance level (p-value) of 0.05 was used. A total of 12 A/B tests were conducted.
 
+The A/B experiment showed the following:
+
+1. Comparison of user behavior between control group 246 and experimental group 248: According to the calculations, the number of users in control group 246 and experimental group 248 differs by 2.09%. There is a significant statistical difference between the proportions of users in groups who made payments in relation to the total number of users who visited the application. The null hypothesis was confirmed. It was concluded that changing the font in the application has a statistically significant impact on the behavior of online store users.
+
+2. Comparison of user behavior between control group 247 and experimental group 248: According to the calculations, the number of users in control group 247 and experimental group 248 differs by 0.95%. There is no statistically significant difference between the proportions of users in the groups at each stage of the funnel.
+
+3. Comparison of user behavior between control group 249 (combined group from 246 and 247) and experimental group 248: There is also no statistically significant difference between the proportions of users in the groups at each stage of the funnel. Therefore, it can be concluded that changing the font in the application does not have a statistically significant impact on the behavior of online store users, i.e., it does not affect the sales volume.
+
 In the case of multiple tests, the probability of making a Type I or Type II error increases, meaning that we may detect a difference between groups when there isn't one (false positive result) or fail to detect a difference when it actually exists (false negative result).
 
 In the present case, a Type II error, or a false negative result, may occur. This indicates that there are differences between the groups, but the test showed a p-value greater than the significance level α, giving us no grounds to reject H₀ (the null hypothesis).
